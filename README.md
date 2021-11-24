@@ -1,7 +1,7 @@
 # COVID-19 Tracker Android Application
-This application displays the latest updates based on numbers from https://www.covid19india.org/
 
-## <a href="https://github.com/Mehatab/covid-19/releases/download/v1.6.2/app-release.apk"><img src="screenshots/download_apk.png" width="32%" /></a>
+
+
 
 <img src="screenshots/light_screenshot_1.png" width="15%" /> <img src="screenshots/light_screenshot_2.png" width="15%" /> <img src="screenshots/light_screenshot_3.png" width="15%" /> <img src="screenshots/light_screenshot_4.png" width="15%" /> <img src="screenshots/light_screenshot_5.png" width="15%" />
 
@@ -35,4 +35,4 @@ if your change is substantial, please raise an issue.
 Thanks to [COVID19India.org](https://github.com/covid19india/api) for open-source API.
 
 ## Maintainer
-Mehatab Shaikh <shaikh.mehatab@gmail.com>
+
