@@ -31,8 +31,5 @@ submitting a pull request. Since this project is still in development,
 if your change is substantial, please raise an issue.
 
 
-# Credits
-Thanks to [COVID19India.org](https://github.com/covid19india/api) for open-source API.
-
 ## Maintainer
 
